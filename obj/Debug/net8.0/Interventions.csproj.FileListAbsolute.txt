@@ -252,3 +252,4 @@ E:\Entractes\Interventions\Interventions\obj\Debug\net8.0\Interventions.pdb
 E:\Entractes\Interventions\Interventions\obj\Debug\net8.0\Interventions.genruntimeconfig.cache
 E:\Entractes\Interventions\Interventions\obj\Debug\net8.0\ref\Interventions.dll
 E:\Entractes\Interventions\Interventions\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Entractes\Interventions\Interventions\obj\Debug\net8.0\Interventions.sourcelink.json

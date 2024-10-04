@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interventions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d9e024911233640cfbe39b1ad53a554ed0d544")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interventions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interventions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

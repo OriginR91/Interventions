@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Entractes\\Interventions\\Interventions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\controllers\\intervenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|solutionrelative:controllers\\intervenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\views\\home\\registrationintervenant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|solutionrelative:views\\home\\registrationintervenant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\models\\intervenantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|solutionrelative:models\\intervenantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\controllers\\intervenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|solutionrelative:controllers\\intervenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8848F6F7-6932-4130-A0C2-4AAD9C6A5C68}|Interventions.csproj|e:\\entractes\\interventions\\interventions\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 390,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +46,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Entractes\\Interventions\\Interventions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:24:08.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "registrationintervenant.cshtml",
+              "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Views\\Home\\registrationintervenant.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\registrationintervenant.cshtml",
+              "ToolTip": "E:\\Entractes\\Interventions\\Interventions\\Views\\Home\\registrationintervenant.cshtml",
+              "RelativeToolTip": "Views\\Home\\registrationintervenant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T10:23:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IntervenantModel.cs",
               "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Models\\IntervenantModel.cs",
               "RelativeDocumentMoniker": "Models\\IntervenantModel.cs",
               "ToolTip": "E:\\Entractes\\Interventions\\Interventions\\Models\\IntervenantModel.cs",
               "RelativeToolTip": "Models\\IntervenantModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T13:29:09.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IntervenantController.cs",
               "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Controllers\\IntervenantController.cs",
               "RelativeDocumentMoniker": "Controllers\\IntervenantController.cs",
               "ToolTip": "E:\\Entractes\\Interventions\\Interventions\\Controllers\\IntervenantController.cs",
               "RelativeToolTip": "Controllers\\IntervenantController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T13:33:04.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Entractes\\Interventions\\Interventions\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
